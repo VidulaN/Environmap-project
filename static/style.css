@@ -1,0 +1,104 @@
+/* Reset margins/padding and set a full-window layout */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: Arial, sans-serif;
+}
+
+/* Container for sidebar and map */
+#map-container {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+}
+
+/* Sidebar / Controls styling */
+#controls {
+  width: 300px;
+  background-color: #48AAAD;
+  padding: 20px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  border-style: solid;
+  border-color: #016064;
+  border-width: thick;
+
+}
+
+#controls label,
+#controls select,
+#controls input,
+#controls button 
+#controls p {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+/* Main Map styling */
+#map {
+  flex: 1;
+  height: 100vh;
+  width: 100%;
+}
+
+/* Info Section styling as an overlay */
+#info-section {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  max-width: 300px;
+  padding: 20px;
+  background-color: #48AAAD;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  z-index: 1000;
+  
+}
+
+/* Data Section styling */
+#data-section {
+  padding: 20px;
+  background: rgb(23, 112, 133);
+  border-top: 2px solid #ccc;
+}
+
+/* Data Table styling */
+#data-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+#data-table th,
+#data-table td {
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+/* Download Link styling */
+#download-link {
+  display: block;
+  margin-top: 10px;
+  padding: 10px;
+  text-align: center;
+  background: white;
+  color: #0078D4;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+#download-link:hover {
+  background: #e0e0e0;
+}
+
+/* Utility class to hide elements */
+.hidden {
+  display: none;
+}

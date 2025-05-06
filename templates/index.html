@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EnvironMap</title>
+
+  <style>
+      h1 {text-align: center;}
+      h1{color: white;}
+
+      h3{color:white;}
+      h3 {text-align: center;}
+      h3 {font-size: large;}
+    
+      p {text-align: center;}
+      p {color: white}
+      .label {
+  color: white;
+      }
+
+      .container {
+            display: table;
+            width: 100%
+        }
+
+      .info-section{
+        color: #08686b
+      }
+      
+
+      
+  </style>
+
+  
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+  <div id="map-container">
+    <!-- Sidebar / Controls -->
+    <div id="controls">
+      <h1 style="font-family: 'Times New Roman', serif; font-size: 35px;", style= "color: whitesmoke;"><b>ENVIRONMAP</b></h1>
+      <p> <b>Select the borough, factors and year of interest</b> </p>
+      <label style="color: white;" for="borough"><b>Borough</b></label>
+      <select id="borough">
+        <option>London Total</option>
+        {% for b in boroughs %}
+          <option>{{ b }}</option>
+        {% endfor %}
+      </select>
+
+      <label style="color: white;" for="factor"> <b>Factor</b></label>
+      <select id="factor">
+        {% for f in factors %}
+          <option>{{ f }}</option>
+        {% endfor %}
+      </select>
+
+      <div class="container">
+      <input style="color: white;"  type="range" id="year" min="{{ years[0] }}" max="{{ years[-1] }}" value="{{ years[-1] }}" />
+      <label style="color: white;" for="year" > <b>Year </b> </label>
+      <span style="color: white;" for = "year" id="year-value"> <b> ({{ years[-1] }})</b>  </span>
+      
+
+      <button  style="color:#016064;" id="go-button"  style="width:60px;height:30px" ><b>Go</b></button>
+      
+    </div>
+    </div>
+
+    <!-- Main Map Area -->
+    <div id="map"></div>
+  </div>
+
+  <!-- Info Section (as an overlay on the map, initially hidden) -->
+  <div id="info-section" >
+    <h3>Factor Information</h3>
+    <p  id="factor-description"></p>
+    <button id="toggle-table-button">Show Data Table</button>
+  </div>
+
+  <!-- Data Section (initially hidden) -->
+  <div id="data-section" class="hidden">
+    <h3 id="data-heading">Data</h3>
+    <table id="data-table"></table>
+  </div>
+
+  <div id="data-section" class="hidden">
+    <table id="data-table"></table>
+    <a id="download-link" download="data.csv" style="display: none;">Download CSV</a>
+  </div>
+  
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <!-- Custom JS -->
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

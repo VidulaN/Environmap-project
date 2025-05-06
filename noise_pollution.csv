@@ -1,0 +1,430 @@
+Borough,Year,Sound_level
+Barking and Dagenham,2010,61
+Barking and Dagenham,2011,61
+Barking and Dagenham,2012,61
+Barking and Dagenham,2013,61
+Barking and Dagenham,2014,62
+Barking and Dagenham,2015,62
+Barking and Dagenham,2016,62
+Barking and Dagenham,2017,62
+Barking and Dagenham,2018,63
+Barking and Dagenham,2019,63
+Barking and Dagenham,2020,61
+Barking and Dagenham,2021,62
+Barking and Dagenham,2022,63
+Barnet,2010,60
+Barnet,2011,60
+Barnet,2012,60
+Barnet,2013,60
+Barnet,2014,61
+Barnet,2015,61
+Barnet,2016,61
+Barnet,2017,61
+Barnet,2018,62
+Barnet,2019,62
+Barnet,2020,60
+Barnet,2021,61
+Barnet,2022,62
+Bexley,2010,59
+Bexley,2011,59
+Bexley,2012,60
+Bexley,2013,60
+Bexley,2014,60
+Bexley,2015,60
+Bexley,2016,61
+Bexley,2017,61
+Bexley,2018,61
+Bexley,2019,61
+Bexley,2020,60
+Bexley,2021,61
+Bexley,2022,61
+Brent,2010,62
+Brent,2011,62
+Brent,2012,62
+Brent,2013,62
+Brent,2014,63
+Brent,2015,63
+Brent,2016,63
+Brent,2017,63
+Brent,2018,64
+Brent,2019,64
+Brent,2020,62
+Brent,2021,63
+Brent,2022,64
+Bromley,2010,59
+Bromley,2011,59
+Bromley,2012,59
+Bromley,2013,59
+Bromley,2014,60
+Bromley,2015,60
+Bromley,2016,60
+Bromley,2017,60
+Bromley,2018,61
+Bromley,2019,61
+Bromley,2020,59
+Bromley,2021,60
+Bromley,2022,61
+Camden,2010,65
+Camden,2011,65
+Camden,2012,65
+Camden,2013,65
+Camden,2014,66
+Camden,2015,66
+Camden,2016,66
+Camden,2017,66
+Camden,2018,67
+Camden,2019,67
+Camden,2020,65
+Camden,2021,66
+Camden,2022,67
+City of London,2010,66
+City of London,2011,66
+City of London,2012,67
+City of London,2013,67
+City of London,2014,67
+City of London,2015,67
+City of London,2016,68
+City of London,2017,68
+City of London,2018,68
+City of London,2019,68
+City of London,2020,67
+City of London,2021,68
+City of London,2022,68
+Croydon,2010,60
+Croydon,2011,60
+Croydon,2012,60
+Croydon,2013,60
+Croydon,2014,61
+Croydon,2015,61
+Croydon,2016,61
+Croydon,2017,61
+Croydon,2018,62
+Croydon,2019,62
+Croydon,2020,60
+Croydon,2021,61
+Croydon,2022,62
+Ealing,2010,61
+Ealing,2011,61
+Ealing,2012,62
+Ealing,2013,62
+Ealing,2014,62
+Ealing,2015,62
+Ealing,2016,63
+Ealing,2017,63
+Ealing,2018,63
+Ealing,2019,63
+Ealing,2020,62
+Ealing,2021,63
+Ealing,2022,63
+Enfield,2010,60
+Enfield,2011,60
+Enfield,2012,60
+Enfield,2013,60
+Enfield,2014,61
+Enfield,2015,61
+Enfield,2016,61
+Enfield,2017,61
+Enfield,2018,62
+Enfield,2019,62
+Enfield,2020,60
+Enfield,2021,61
+Enfield,2022,62
+Greenwich,2010,63
+Greenwich,2011,63
+Greenwich,2012,63
+Greenwich,2013,63
+Greenwich,2014,64
+Greenwich,2015,64
+Greenwich,2016,64
+Greenwich,2017,64
+Greenwich,2018,65
+Greenwich,2019,65
+Greenwich,2020,63
+Greenwich,2021,64
+Greenwich,2022,65
+Hackney,2010,64
+Hackney,2011,64
+Hackney,2012,64
+Hackney,2013,64
+Hackney,2014,65
+Hackney,2015,65
+Hackney,2016,65
+Hackney,2017,65
+Hackney,2018,66
+Hackney,2019,66
+Hackney,2020,64
+Hackney,2021,65
+Hackney,2022,66
+Hammersmith and Fulham,2010,65
+Hammersmith and Fulham,2011,65
+Hammersmith and Fulham,2012,66
+Hammersmith and Fulham,2013,66
+Hammersmith and Fulham,2014,66
+Hammersmith and Fulham,2015,66
+Hammersmith and Fulham,2016,67
+Hammersmith and Fulham,2017,67
+Hammersmith and Fulham,2018,67
+Hammersmith and Fulham,2019,67
+Hammersmith and Fulham,2020,66
+Hammersmith and Fulham,2021,67
+Hammersmith and Fulham,2022,67
+Haringey,2010,62
+Haringey,2011,62
+Haringey,2012,63
+Haringey,2013,63
+Haringey,2014,63
+Haringey,2015,63
+Haringey,2016,64
+Haringey,2017,64
+Haringey,2018,64
+Haringey,2019,64
+Haringey,2020,63
+Haringey,2021,64
+Haringey,2022,64
+Harrow,2010,60
+Harrow,2011,60
+Harrow,2012,60
+Harrow,2013,60
+Harrow,2014,61
+Harrow,2015,61
+Harrow,2016,61
+Harrow,2017,61
+Harrow,2018,62
+Harrow,2019,62
+Harrow,2020,60
+Harrow,2021,61
+Harrow,2022,62
+Havering,2010,59
+Havering,2011,59
+Havering,2012,59
+Havering,2013,59
+Havering,2014,60
+Havering,2015,60
+Havering,2016,60
+Havering,2017,60
+Havering,2018,61
+Havering,2019,61
+Havering,2020,59
+Havering,2021,60
+Havering,2022,61
+Hillingdon,2010,60
+Hillingdon,2011,60
+Hillingdon,2012,60
+Hillingdon,2013,60
+Hillingdon,2014,61
+Hillingdon,2015,61
+Hillingdon,2016,61
+Hillingdon,2017,61
+Hillingdon,2018,62
+Hillingdon,2019,62
+Hillingdon,2020,60
+Hillingdon,2021,61
+Hillingdon,2022,62
+Hounslow,2010,61
+Hounslow,2011,61
+Hounslow,2012,61
+Hounslow,2013,61
+Hounslow,2014,62
+Hounslow,2015,62
+Hounslow,2016,62
+Hounslow,2017,62
+Hounslow,2018,63
+Hounslow,2019,63
+Hounslow,2020,61
+Hounslow,2021,62
+Hounslow,2022,63
+Islington,2010,64
+Islington,2011,64
+Islington,2012,65
+Islington,2013,65
+Islington,2014,65
+Islington,2015,65
+Islington,2016,66
+Islington,2017,66
+Islington,2018,66
+Islington,2019,66
+Islington,2020,65
+Islington,2021,66
+Islington,2022,66
+Kensington and Chelsea,2010,66
+Kensington and Chelsea,2011,66
+Kensington and Chelsea,2012,66
+Kensington and Chelsea,2013,66
+Kensington and Chelsea,2014,67
+Kensington and Chelsea,2015,67
+Kensington and Chelsea,2016,67
+Kensington and Chelsea,2017,67
+Kensington and Chelsea,2018,68
+Kensington and Chelsea,2019,68
+Kensington and Chelsea,2020,66
+Kensington and Chelsea,2021,67
+Kensington and Chelsea,2022,68
+Kingston upon Thames ,2010,60
+Kingston upon Thames ,2011,60
+Kingston upon Thames ,2012,60
+Kingston upon Thames ,2013,60
+Kingston upon Thames ,2014,61
+Kingston upon Thames ,2015,61
+Kingston upon Thames ,2016,61
+Kingston upon Thames ,2017,61
+Kingston upon Thames ,2018,62
+Kingston upon Thames ,2019,62
+Kingston upon Thames ,2020,60
+Kingston upon Thames ,2021,61
+Kingston upon Thames ,2022,62
+Lambeth,2010,64
+Lambeth,2011,64
+Lambeth,2012,64
+Lambeth,2013,64
+Lambeth,2014,65
+Lambeth,2015,65
+Lambeth,2016,65
+Lambeth,2017,65
+Lambeth,2018,66
+Lambeth,2019,66
+Lambeth,2020,64
+Lambeth,2021,65
+Lambeth,2022,66
+Lewisham,2010,62
+Lewisham,2011,62
+Lewisham,2012,62
+Lewisham,2013,62
+Lewisham,2014,63
+Lewisham,2015,63
+Lewisham,2016,63
+Lewisham,2017,63
+Lewisham,2018,64
+Lewisham,2019,64
+Lewisham,2020,62
+Lewisham,2021,63
+Lewisham,2022,64
+Merton,2010,60
+Merton,2011,60
+Merton,2012,60
+Merton,2013,60
+Merton,2014,61
+Merton,2015,61
+Merton,2016,61
+Merton,2017,61
+Merton,2018,62
+Merton,2019,62
+Merton,2020,60
+Merton,2021,61
+Merton,2022,62
+Newham,2010,61
+Newham,2011,61
+Newham,2012,61
+Newham,2013,61
+Newham,2014,62
+Newham,2015,62
+Newham,2016,62
+Newham,2017,62
+Newham,2018,63
+Newham,2019,63
+Newham,2020,61
+Newham,2021,62
+Newham,2022,63
+Redbridge,2010,60
+Redbridge,2011,60
+Redbridge,2012,60
+Redbridge,2013,60
+Redbridge,2014,61
+Redbridge,2015,61
+Redbridge,2016,61
+Redbridge,2017,61
+Redbridge,2018,62
+Redbridge,2019,62
+Redbridge,2020,60
+Redbridge,2021,61
+Redbridge,2022,62
+Richmond upon Thames ,2010,58
+Richmond upon Thames ,2011,58
+Richmond upon Thames ,2012,58
+Richmond upon Thames ,2013,58
+Richmond upon Thames ,2014,59
+Richmond upon Thames ,2015,59
+Richmond upon Thames ,2016,59
+Richmond upon Thames ,2017,59
+Richmond upon Thames ,2018,60
+Richmond upon Thames ,2019,60
+Richmond upon Thames ,2020,58
+Richmond upon Thames ,2021,59
+Richmond upon Thames ,2022,60
+Southwark,2010,63
+Southwark,2011,63
+Southwark,2012,63
+Southwark,2013,63
+Southwark,2014,64
+Southwark,2015,64
+Southwark,2016,64
+Southwark,2017,64
+Southwark,2018,65
+Southwark,2019,65
+Southwark,2020,63
+Southwark,2021,64
+Southwark,2022,65
+Sutton,2010,57
+Sutton,2011,57
+Sutton,2012,58
+Sutton,2013,58
+Sutton,2014,58
+Sutton,2015,58
+Sutton,2016,59
+Sutton,2017,59
+Sutton,2018,59
+Sutton,2019,59
+Sutton,2020,58
+Sutton,2021,59
+Sutton,2022,59
+Tower Hamlets,2010,63
+Tower Hamlets,2011,63
+Tower Hamlets,2012,64
+Tower Hamlets,2013,64
+Tower Hamlets,2014,64
+Tower Hamlets,2015,64
+Tower Hamlets,2016,65
+Tower Hamlets,2017,65
+Tower Hamlets,2018,65
+Tower Hamlets,2019,65
+Tower Hamlets,2020,64
+Tower Hamlets,2021,65
+Tower Hamlets,2022,65
+Waltham Forest,2010,60
+Waltham Forest,2011,60
+Waltham Forest,2012,61
+Waltham Forest,2013,61
+Waltham Forest,2014,61
+Waltham Forest,2015,61
+Waltham Forest,2016,62
+Waltham Forest,2017,62
+Waltham Forest,2018,62
+Waltham Forest,2019,62
+Waltham Forest,2020,61
+Waltham Forest,2021,62
+Waltham Forest,2022,62
+Wandsworth,2010,60
+Wandsworth,2011,60
+Wandsworth,2012,60
+Wandsworth,2013,60
+Wandsworth,2014,61
+Wandsworth,2015,61
+Wandsworth,2016,61
+Wandsworth,2017,61
+Wandsworth,2018,62
+Wandsworth,2019,62
+Wandsworth,2020,60
+Wandsworth,2021,61
+Wandsworth,2022,62
+Westminster,2010,67
+Westminster,2011,67
+Westminster,2012,67
+Westminster,2013,67
+Westminster,2014,68
+Westminster,2015,68
+Westminster,2016,68
+Westminster,2017,68
+Westminster,2018,69
+Westminster,2019,69
+Westminster,2020,67
+Westminster,2021,68
+Westminster,2022,69
