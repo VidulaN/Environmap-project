@@ -1,0 +1,425 @@
+Borough,Year,CO2_emissions
+Barking and Dagenham,2010,799.49
+Barking and Dagenham,2011,716.48
+Barking and Dagenham,2012,729.72
+Barking and Dagenham,2013,720.26
+Barking and Dagenham,2014,644.09
+Barking and Dagenham,2015,612.80
+Barking and Dagenham,2016,567.30
+Barking and Dagenham,2017,573.88
+Barking and Dagenham,2018,526.78
+Barking and Dagenham,2019,508.78
+Barking and Dagenham,2020,461.98
+Barking and Dagenham,2021,479.22
+Barking and Dagenham,2022,466.34
+Barnet,2010,1638.38
+Barnet,2011,1477.06
+Barnet,2012,1522.53
+Barnet,2013,1529.65
+Barnet,2014,1515.50
+Barnet,2015,1334.65
+Barnet,2016,1289.75
+Barnet,2017,1273.21
+Barnet,2018,1197.32
+Barnet,2019,1196.57
+Barnet,2020,1117.69
+Barnet,2021,1127.08
+Barnet,2022,1088.69
+Bexley,2010,1085.76
+Bexley,2011,977.62
+Bexley,2012,1013.54
+Bexley,2013,1029.75
+Bexley,2014,996.20
+Bexley,2015,890.98
+Bexley,2016,840.91
+Bexley,2017,837.43
+Bexley,2018,1167.56
+Bexley,2019,809.70
+Bexley,2020,730.28
+Bexley,2021,746.66
+Bexley,2022,725.89
+Brent,2010,1260.53
+Brent,2011,1115.86
+Brent,2012,1274.81
+Brent,2013,1283.04
+Brent,2014,1255.75
+Brent,2015,1003.27
+Brent,2016,985.64
+Brent,2017,998.15
+Brent,2018,929.64
+Brent,2019,929.21
+Brent,2020,890.04
+Brent,2021,919.07
+Brent,2022,867.20
+Bromley,2010,1367.50
+Bromley,2011,1225.90
+Bromley,2012,1277.52
+Bromley,2013,1283.75
+Bromley,2014,1173.72
+Bromley,2015,1107.77
+Bromley,2016,1046.45
+Bromley,2017,1035.10
+Bromley,2018,971.06
+Bromley,2019,978.08
+Bromley,2020,913.90
+Bromley,2021,914.07
+Bromley,2022,859.30
+Camden,2010,1650.49
+Camden,2011,1484.49
+Camden,2012,1545.82
+Camden,2013,1557.82
+Camden,2014,1420.43
+Camden,2015,1252.74
+Camden,2016,1171.94
+Camden,2017,1129.66
+Camden,2018,1060.33
+Camden,2019,1037.13
+Camden,2020,934.79
+Camden,2021,954.62
+Camden,2022,979.39
+City of London,2010,1646.12
+City of London,2011,1373.56
+City of London,2012,1437.27
+City of London,2013,1438.39
+City of London,2014,1140.89
+City of London,2015,1091.72
+City of London,2016,904.92
+City of London,2017,819.35
+City of London,2018,754.32
+City of London,2019,675.79
+City of London,2020,530.32
+City of London,2021,547.25
+City of London,2022,582.77
+Croydon,2010,1503.41
+Croydon,2011,1343.11
+Croydon,2012,1398.78
+Croydon,2013,1393.95
+Croydon,2014,1234.82
+Croydon,2015,1179.74
+Croydon,2016,1099.48
+Croydon,2017,1087.95
+Croydon,2018,1026.88
+Croydon,2019,1048.37
+Croydon,2020,964.88
+Croydon,2021,996.00
+Croydon,2022,946.68
+Ealing,2010,1584.56
+Ealing,2011,1451.87
+Ealing,2012,1519.49
+Ealing,2013,1543.07
+Ealing,2014,1420.34
+Ealing,2015,1274.39
+Ealing,2016,1190.64
+Ealing,2017,1178.61
+Ealing,2018,1108.98
+Ealing,2019,1090.40
+Ealing,2020,995.53
+Ealing,2021,1039.64
+Ealing,2022,1018.12
+Enfield,2010,1431.11
+Enfield,2011,1286.21
+Enfield,2012,1331.24
+Enfield,2013,1352.79
+Enfield,2014,1294.60
+Enfield,2015,1160.23
+Enfield,2016,1103.67
+Enfield,2017,1081.28
+Enfield,2018,1268.62
+Enfield,2019,1073.56
+Enfield,2020,992.95
+Enfield,2021,1013.90
+Enfield,2022,993.63
+Greenwich,2010,1132.88
+Greenwich,2011,992.86
+Greenwich,2012,1000.02
+Greenwich,2013,954.55
+Greenwich,2014,1011.80
+Greenwich,2015,851.44
+Greenwich,2016,815.54
+Greenwich,2017,793.79
+Greenwich,2018,773.49
+Greenwich,2019,776.83
+Greenwich,2020,707.47
+Greenwich,2021,729.55
+Greenwich,2022,700.01
+Hackney,2010,840.05
+Hackney,2011,772.90
+Hackney,2012,846.99
+Hackney,2013,848.86
+Hackney,2014,850.73
+Hackney,2015,717.98
+Hackney,2016,655.08
+Hackney,2017,654.68
+Hackney,2018,606.06
+Hackney,2019,600.65
+Hackney,2020,553.67
+Hackney,2021,569.34
+Hackney,2022,549.43
+Hammersmith and Fulham,2010,1026.26
+Hammersmith and Fulham,2011,916.73
+Hammersmith and Fulham,2012,941.17
+Hammersmith and Fulham,2013,935.78
+Hammersmith and Fulham,2014,845.67
+Hammersmith and Fulham,2015,769.78
+Hammersmith and Fulham,2016,708.81
+Hammersmith and Fulham,2017,696.54
+Hammersmith and Fulham,2018,648.75
+Hammersmith and Fulham,2019,633.00
+Hammersmith and Fulham,2020,569.32
+Hammersmith and Fulham,2021,586.93
+Hammersmith and Fulham,2022,585.78
+Haringey,2010,932.76
+Haringey,2011,828.51
+Haringey,2012,857.94
+Haringey,2013,857.39
+Haringey,2014,801.85
+Haringey,2015,726.32
+Haringey,2016,698.26
+Haringey,2017,675.10
+Haringey,2018,636.82
+Haringey,2019,634.44
+Haringey,2020,595.09
+Haringey,2021,601.66
+Haringey,2022,576.49
+Harrow,2010,900.11
+Harrow,2011,793.12
+Harrow,2012,831.54
+Harrow,2013,825.81
+Harrow,2014,809.30
+Harrow,2015,695.25
+Harrow,2016,657.79
+Harrow,2017,636.01
+Harrow,2018,604.34
+Harrow,2019,607.51
+Harrow,2020,574.98
+Harrow,2021,585.20
+Harrow,2022,550.07
+Havering,2010,1191.15
+Havering,2011,1051.90
+Havering,2012,1088.65
+Havering,2013,1095.91
+Havering,2014,1051.33
+Havering,2015,965.43
+Havering,2016,931.90
+Havering,2017,903.16
+Havering,2018,906.77
+Havering,2019,930.91
+Havering,2020,862.29
+Havering,2021,893.72
+Havering,2022,862.51
+Hillingdon,2010,2609.26
+Hillingdon,2011,2366.56
+Hillingdon,2012,2442.96
+Hillingdon,2013,2629.23
+Hillingdon,2014,2438.15
+Hillingdon,2015,2165.51
+Hillingdon,2016,2186.84
+Hillingdon,2017,2112.30
+Hillingdon,2018,2041.28
+Hillingdon,2019,2037.64
+Hillingdon,2020,1523.38
+Hillingdon,2021,1480.06
+Hillingdon,2022,1782.77
+Hounslow,2010,1535.01
+Hounslow,2011,1414.22
+Hounslow,2012,1453.87
+Hounslow,2013,1455.83
+Hounslow,2014,1374.38
+Hounslow,2015,1244.93
+Hounslow,2016,1166.90
+Hounslow,2017,1114.64
+Hounslow,2018,1063.87
+Hounslow,2019,1059.93
+Hounslow,2020,894.97
+Hounslow,2021,916.81
+Hounslow,2022,936.86
+Islington,2010,1134.93
+Islington,2011,982.79
+Islington,2012,1047.48
+Islington,2013,1028.08
+Islington,2014,930.11
+Islington,2015,832.09
+Islington,2016,764.44
+Islington,2017,720.98
+Islington,2018,673.78
+Islington,2019,513.38
+Islington,2020,468.21
+Islington,2021,589.73
+Islington,2022,592.23
+Kensington and Chelsea,2010,1385.81
+Kensington and Chelsea,2011,1266.75
+Kensington and Chelsea,2012,1269.48
+Kensington and Chelsea,2013,1205.91
+Kensington and Chelsea,2014,1225.08
+Kensington and Chelsea,2015,1029.53
+Kensington and Chelsea,2016,909.67
+Kensington and Chelsea,2017,823.58
+Kensington and Chelsea,2018,761.49
+Kensington and Chelsea,2019,746.48
+Kensington and Chelsea,2020,665.94
+Kensington and Chelsea,2021,696.80
+Kensington and Chelsea,2022,693.41
+Lambeth,2010,1261.84
+Lambeth,2011,1139.93
+Lambeth,2012,1175.91
+Lambeth,2013,1199.02
+Lambeth,2014,1081.34
+Lambeth,2015,1003.14
+Lambeth,2016,947.04
+Lambeth,2017,911.68
+Lambeth,2018,828.11
+Lambeth,2019,830.24
+Lambeth,2020,767.61
+Lambeth,2021,805.17
+Lambeth,2022,763.43
+Lewisham,2010,944.55
+Lewisham,2011,848.16
+Lewisham,2012,872.76
+Lewisham,2013,860.49
+Lewisham,2014,786.98
+Lewisham,2015,751.11
+Lewisham,2016,704.34
+Lewisham,2017,681.82
+Lewisham,2018,813.81
+Lewisham,2019,641.60
+Lewisham,2020,597.75
+Lewisham,2021,602.70
+Lewisham,2022,570.54
+Merton,2010,889.48
+Merton,2011,791.54
+Merton,2012,813.85
+Merton,2013,834.82
+Merton,2014,708.60
+Merton,2015,698.04
+Merton,2016,657.04
+Merton,2017,636.41
+Merton,2018,617.11
+Merton,2019,607.39
+Merton,2020,553.87
+Merton,2021,563.77
+Merton,2022,540.24
+Newham,2010,1485.10
+Newham,2011,1374.95
+Newham,2012,1399.62
+Newham,2013,1408.23
+Newham,2014,1309.13
+Newham,2015,1183.26
+Newham,2016,1133.11
+Newham,2017,1068.32
+Newham,2018,1196.99
+Newham,2019,976.46
+Newham,2020,849.71
+Newham,2021,887.48
+Newham,2022,923.04
+Redbridge,2010,1010.11
+Redbridge,2011,910.04
+Redbridge,2012,943.71
+Redbridge,2013,938.51
+Redbridge,2014,929.50
+Redbridge,2015,824.03
+Redbridge,2016,797.20
+Redbridge,2017,777.38
+Redbridge,2018,737.10
+Redbridge,2019,735.07
+Redbridge,2020,689.13
+Redbridge,2021,704.20
+Redbridge,2022,668.92
+Southwark,2010,1502.12
+Southwark,2011,1318.26
+Southwark,2012,1406.03
+Southwark,2013,1406.44
+Southwark,2014,1170.13
+Southwark,2015,1194.78
+Southwark,2016,1091.37
+Southwark,2017,1031.59
+Southwark,2018,952.20
+Southwark,2019,899.90
+Southwark,2020,781.68
+Southwark,2021,811.58
+Southwark,2022,799.40
+Sutton,2010,797.46
+Sutton,2011,699.50
+Sutton,2012,741.45
+Sutton,2013,737.12
+Sutton,2014,656.96
+Sutton,2015,626.11
+Sutton,2016,573.08
+Sutton,2017,558.68
+Sutton,2018,533.42
+Sutton,2019,527.85
+Sutton,2020,500.98
+Sutton,2021,506.47
+Sutton,2022,482.71
+Tower Hamlets,2010,2141.89
+Tower Hamlets,2011,1789.55
+Tower Hamlets,2012,2003.84
+Tower Hamlets,2013,1888.71
+Tower Hamlets,2014,1768.20
+Tower Hamlets,2015,1485.88
+Tower Hamlets,2016,1323.14
+Tower Hamlets,2017,1212.87
+Tower Hamlets,2018,1131.60
+Tower Hamlets,2019,1129.46
+Tower Hamlets,2020,997.05
+Tower Hamlets,2021,1040.91
+Tower Hamlets,2022,1019.08
+Waltham Forest,2010,929.47
+Waltham Forest,2011,827.55
+Waltham Forest,2012,857.47
+Waltham Forest,2013,840.26
+Waltham Forest,2014,834.87
+Waltham Forest,2015,728.65
+Waltham Forest,2016,691.34
+Waltham Forest,2017,656.81
+Waltham Forest,2018,636.48
+Waltham Forest,2019,626.55
+Waltham Forest,2020,573.70
+Waltham Forest,2021,587.13
+Waltham Forest,2022,559.33
+Wandsworth,2010,1209.93
+Wandsworth,2011,1072.80
+Wandsworth,2012,1116.56
+Wandsworth,2013,1119.26
+Wandsworth,2014,1040.81
+Wandsworth,2015,953.48
+Wandsworth,2016,933.00
+Wandsworth,2017,886.70
+Wandsworth,2018,827.62
+Wandsworth,2019,846.51
+Wandsworth,2020,788.45
+Wandsworth,2021,803.77
+Wandsworth,2022,766.33
+Westminster,2010,3212.43
+Westminster,2011,2854.75
+Westminster,2012,2989.30
+Westminster,2013,3043.78
+Westminster,2014,2708.73
+Westminster,2015,2375.20
+Westminster,2016,2119.49
+Westminster,2017,2027.88
+Westminster,2018,1862.50
+Westminster,2019,1755.70
+Westminster,2020,1464.42
+Westminster,2021,1595.93
+Westminster,2022,1646.44
+Kingston upon Thames,2010,1356.13
+Kingston upon Thames,2011,1208.57
+Kingston upon Thames,2012,1262.95
+Kingston upon Thames,2013,1266.01
+Kingston upon Thames,2014,1175.16
+Kingston upon Thames,2015,1055.82
+Kingston upon Thames,2016,989.23
+Kingston upon Thames,2017,954.70
+Richmond upon Thames,2010,1356.13
+Richmond upon Thames,2011,1208.57
+Richmond upon Thames,2012,1262.95
+Richmond upon Thames,2013,1266.01
+Richmond upon Thames,2014,1175.16
+Richmond upon Thames,2015,1055.82
+Richmond upon Thames,2016,989.23
+Richmond upon Thames,2017,954.70
+Richmond upon Thames,2018,876.87
+Richmond upon Thames,2019,622.97
+Richmond upon Thames,2020,556.13
+Richmond upon Thames,2021,563.56
+Richmond upon Thames,2022,550.52
