@@ -16,37 +16,26 @@ Navigate to the EnvironMap application interface.
 
 2. Select the Borough
 Use the dropdown menu under "Borough" to choose a London borough you're interested in.
+  Example: Greenwich
 
-Example: Greenwich
-
-3. Choose the Environmental Factor
-In the "Factor" dropdown, choose the type of environmental data to view:
-
-Air Quality – Tracks PM2.5 and NO₂ levels.
-
-Noise Pollution
-
-CO₂ Emissions
+3. Choose the Environmental Factor: in the "Factor" dropdown, choose the type of environmental data to view:
+   - Air Quality – Tracks PM2.5 and NO₂ levels.
+   - Noise Pollution
+   - CO₂ Emissions
 
 4. Adjust the Year
-Use the slider bar to select a year between the available range (e.g., 2020).
+Use the slider bar to select a year between the available range (e.g., 2020). The selected year is displayed below the slider.
 
-The selected year is displayed below the slider.
-
-5. View the Map
-Click the "Go" button to load data.
-
-The selected borough will be highlighted on the map.
-
-The map displays data through color-coded regions, making it easier to interpret spatial trends.
+5. View the Map: Click the "Go" button to load data.
+   - The selected borough will be highlighted on the map.
+   - The map displays data through color-coded regions, making it easier to interpret spatial trends.
 
 6. Explore Factor Information
-On the right-hand side, read the Factor Information box for a summary of the environmental indicator selected.
+   - On the right-hand side, read the Factor Information box for a summary of the environmental indicator selected.
+   - To get more detailed data, click "Show Data Table".
 
-To get more detailed data, click "Show Data Table".
 
-
-Hardware & Software Used
+Hardware & Software:
 
 Python: Coding the prototype, base programming language for application	✔
 Flask: Backend web framework for applications, used with Python	✔
