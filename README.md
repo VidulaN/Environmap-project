@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a4383088-f03c-4dff-9702-8195b8c5a42d)# Environmap-project
+
 by Vidula, Haiden &amp; Sahara 
 
 Summary:
