@@ -1,6 +1,8 @@
 
 by Vidula, Haiden &amp; Sahara 
 
+Onedrive link to documentation, testing video: https://sotonac-my.sharepoint.com/:f:/g/personal/vn1g24_soton_ac_uk/Ej5Yr0JWTsNFoT8wIXIWPBcBXoDd7VkwNEUEjKbHzUdXnw?e=JknYEX
+
 Summary:
 EnvironMap is an initiative that aims to combine the interactive potential of Computer Science with the visual representation an engagement of projection mapping. From processing environmental data and projecting onto a 3D model of London as coloured visualisations, the projection mapping aspect brings statistical representations to life as an emergent living, spatial narrative—give the dynamic environmental conditions of the city life by imbuing them with vitality. In parallel, the interactive tool allows users to drill down through these layers of data in detail, by environmental parameter or time period, to uncover strong, evidence-based narratives. The London boroughs are the research context, chosen for diversity and scope—testing a representative sample of urban challenges and opportunities that can be extrapolated globally. 
 
